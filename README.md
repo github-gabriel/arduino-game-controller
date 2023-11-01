@@ -1,6 +1,6 @@
 # Arduino Game Controller
 
-Für diese Projekt habe ich ein Arduino Sketch geschrieben, welcher Daten über den Controller auf der "Serial Console" ausgibt und ein Java Programm, welches diese Daten mithilfe einer Bibliothek (.jar) ausliest und mittels einer GUI als Controller Inputs anzeigt.
+Für diese Projekt habe ich ein Arduino Sketch geschrieben, welcher Daten über den Controller auf der "Serial Console" ausgibt und ein Java Programm, welches diese Daten mithilfe einer Bibliothek (.jar) ausliest und mittels einer GUI als Controller Inputs anzeigt, als eine Art (nicht universeller) Treiber.
 
 Als Controller verwende ich hier einen Arduino Uno mit dem [Joystick Shield von Funduino](https://funduinoshop.com/elektronische-module/keypads-und-buttons/joysticks/joystick-shield-v1.a-arduino-uno-kompatibel), welchen man einfach auf den Arduino Uno stecken kann.
 
@@ -17,7 +17,7 @@ Joystick wird bewegt
 ![](images/Joystick_K.jpg)
 Joystick wird bewegt und gedrückt
 
-Hier ein Video des Programmes in Action:
+Hier ein Video des Programmes:
 
 https://user-images.githubusercontent.com/92476790/169709611-391773cb-4f6e-4965-9c85-765eb3f42c3b.mp4
 
